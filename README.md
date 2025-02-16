@@ -33,6 +33,7 @@ Estou focado em fortalecer minha expertise em **Projetos Ágeis (PMI-ACP, Scrum,
   <img align="center"alt="Gui-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   <img align="center"alt="Gui-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
   <img align="center"alt="Gui-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center"alt="Gui-gif" height="40" width="67" src="https://cdn.discordapp.com/attachments/1340809980994916355/1340820831135076402/Gif_perfil_animado_3.gif?ex=67b3c035&is=67b26eb5&hm=454abed94c7d74dd563851f8790dc4bb5b2e493353818adba0d1b26f65a6f7ce&">
 </div>
 
 ##
