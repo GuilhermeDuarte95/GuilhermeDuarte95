@@ -19,3 +19,7 @@ Além da minha função principal como **Analista de Projetos**, assumo papéis 
 
 📈 **Próximos Passos**:
 Estou focado em fortalecer minha expertise em **Projetos Ágeis (PMI-ACP, Scrum, Kanban)** e especializar-me ainda mais na **digitalização do transporte e Supply Chain**.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarte95&show_icons=true&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDuarte95&theme=cobalt"/>
+</div>
