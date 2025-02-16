@@ -25,6 +25,7 @@ Estou focado em fortalecer minha expertise em **Projetos Ágeis (PMI-ACP, Scrum,
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarte95&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDuarte95&theme=cobalt"/>
+  <img alt="Gui-gif" height="180em" src="https://github.com/GuilhermeDuarte95/GuilhermeDuarte95/blob/e3ef409b60a4200ce0933e7eb04a62ee2ecf29a8/Gif%20perfil%20animado%20(3).gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center"alt="Gui-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -42,7 +43,4 @@ Estou focado em fortalecer minha expertise em **Projetos Ágeis (PMI-ACP, Scrum,
   <a href="mailto:guilhermeduarte.informatica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/NSkXewJG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5513997071968"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
-<div>
-  <img align="center"alt="Gui-gif" height="768" width="461" src="https://i.imgur.com/ZCFzdfX.gif">
 </div>
