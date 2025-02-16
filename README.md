@@ -20,6 +20,8 @@ Além da minha função principal como **Analista de Projetos**, assumo papéis 
 📈 **Próximos Passos**:
 Estou focado em fortalecer minha expertise em **Projetos Ágeis (PMI-ACP, Scrum, Kanban)** e especializar-me ainda mais na **digitalização do transporte e Supply Chain**.
 
+##
+#### Estatística Github & Principais linguagens
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDuarte95&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDuarte95&theme=cobalt"/>
@@ -34,6 +36,10 @@ Estou focado em fortalecer minha expertise em **Projetos Ágeis (PMI-ACP, Scrum,
 </div>
 
 ##
+#### Redes sociais
 <div>
-  <a hrf="https://www.linkedin.com/in/guilherme-duarte-5ab2b9201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-duarte-5ab2b9201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:guilhermeduarte.informatica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/NSkXewJG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5513997071968"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
